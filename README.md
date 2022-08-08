@@ -44,6 +44,19 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <td><a href="https://github.com/maddydevgits/sacet-aws-internship/tree/main/class5">Repo</td>
     <td><a href="https://t.me/+4LYDxaqsMck3ZTQ1">For Assistance</td>
   </tr>
+  <tr>
+    <td>3rd Aug 2022</td>
+    <td>AWS EC2</td>
+    <td><a href="https://github.com/maddydevgits/sacet-aws-internship/tree/main/class5">Repo</td>
+    <td><a href="https://t.me/+4LYDxaqsMck3ZTQ1">For Assistance</td>
+  </tr>
+  <tr>
+    <td>8th Aug 2022</td>
+    <td>AWS SES</td>
+    <td><a href="https://github.com/maddydevgits/sacet-aws-internship/tree/main/class6">Repo</td>
+    <td><a href="https://t.me/+4LYDxaqsMck3ZTQ1">For Assistance</td>
+  </tr>
+  
 </table>
 
 # Make Skilled Platform
